@@ -1,0 +1,6 @@
+_build/
+deps/
+ebin/
+.eunit/
+.rebar/
+rebar.lock
